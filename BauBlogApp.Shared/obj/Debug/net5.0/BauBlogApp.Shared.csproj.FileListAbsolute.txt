@@ -1,0 +1,12 @@
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/bin/Debug/net5.0/BauBlogApp.Shared.deps.json
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/bin/Debug/net5.0/BauBlogApp.Shared.dll
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/bin/Debug/net5.0/ref/BauBlogApp.Shared.dll
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/bin/Debug/net5.0/BauBlogApp.Shared.pdb
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.csprojAssemblyReference.cache
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.AssemblyInfoInputs.cache
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.AssemblyInfo.cs
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.csproj.CoreCompileInputs.cache
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.dll
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/ref/BauBlogApp.Shared.dll
+/Users/turgutalptug/RiderProjects/BauBlogApp/BauBlogApp.Shared/obj/Debug/net5.0/BauBlogApp.Shared.pdb
